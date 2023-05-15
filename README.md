@@ -1,5 +1,5 @@
 # TTT_Assignment
-Note: **"This Source code isn't having Node Module dependencies because, it's a vast file and coudn't able to upload on Git repository".So, I had provided the whole source code in the format of ZIP file as well.**
+Note: **"This Source code isn't having Node Module dependencies because, it's a vast file and coudn't able to upload on Git repository".So, prior to the compilation of index.js file ensure that all the dependencies are downloaded. Post to that the code will compile fine.**
 
 **This project shows the frequency of the most occurred word from a URL link and also plot a histogram of the most occurred words with frequency count in Y-Axis and words name in X-Axis.**
 
